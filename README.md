@@ -28,17 +28,19 @@ Choose your language / Elige tu idioma:
   <img src="https://img.shields.io/badge/Hack4u-FF002B?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Hack4u" />
 </p>
 
+---
+
+## 📊 GitHub Stats / Estadísticas
+
 <p align="center">
-  <table align="center">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=afalvarezsite&show_icons=true&theme=tokyonight&count_private=true" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afalvarezsite&layout=compact&theme=tokyonight" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=afalvarezsite&theme=tokyonight" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api?username=afalvarezsite&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api/top-langs/?username=afalvarezsite&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afalvarezsite&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
 
 ## 🇬🇧 English Version
 
