@@ -23,9 +23,7 @@ Choose your language / Elige tu idioma:
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Redes" />
   <br>
-  <img src="https://img.shields.io/badge/Cybersecurity-1A1918?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Pentesting-B52E31?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Pentesting" />
-  <img src="https://img.shields.io/badge/Hack4u-FF002B?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Hack4u" />
 </p>
 
 ---
@@ -33,10 +31,6 @@ Choose your language / Elige tu idioma:
 ## 📊 GitHub Stats / Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api?username=afalvarezsite&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api/top-langs/?username=afalvarezsite&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afalvarezsite&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
